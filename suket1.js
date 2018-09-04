@@ -6,6 +6,6 @@ $('#connect_with_us').on('click', function() {
     {
       scrollTop: connect
     },
-    900
+    600
   );
 });
