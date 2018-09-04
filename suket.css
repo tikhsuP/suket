@@ -1,6 +1,12 @@
 body {margin: 0;
-  background:#fff;
-  height:auto;
+   background-image: url('t.jpeg');
+     background-repeat: no-repeat;
+     height:100vh;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+	background-size: cover;
+     background-position:center;
+background-attachment: fixed;
 }
 
 h1 {
