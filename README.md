@@ -1,4 +1,4 @@
-# Suket: A Social-welfare group
+# Suket: A Social welfare group
 
 <h3>Demo:</h3>Click <a href="https://tikhsup.github.io/suket/">here.</a>
 
